@@ -21,8 +21,4 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\projekt\VioRentals - platforma z filmami.csproj" />
-  </ItemGroup>
 </Project>
