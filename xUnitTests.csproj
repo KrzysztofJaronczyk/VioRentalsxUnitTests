@@ -23,8 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\VioRentals-FilmsPlatformegsdgjk\VioRentals - platforma z filmami.csproj" />
-    <ProjectReference Include="..\VioRentals-FilmsPlatform\VioRentals - platforma z filmami.csproj" />
+    <ProjectReference Include="..\projekt\VioRentals - platforma z filmami.csproj" />
   </ItemGroup>
-
 </Project>
